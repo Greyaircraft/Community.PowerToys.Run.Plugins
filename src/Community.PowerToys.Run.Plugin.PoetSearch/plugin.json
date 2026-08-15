@@ -1,0 +1,14 @@
+{
+  "ID": "7A3B9C2D4E5F60718293A4B5C6D7E8F9",
+  "ActionKeyword": "poet",
+  "IsGlobal": false,
+  "Name": "PoetSearch",
+  "Author": "Greyaircraft",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Greyaircraft/PowerToysRun-PoetSearch",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.PoetSearch.dll",
+  "IcoPathDark": "Images\\poet.dark.png",
+  "IcoPathLight": "Images\\poet.light.png",
+  "DynamicLoading": false
+}
