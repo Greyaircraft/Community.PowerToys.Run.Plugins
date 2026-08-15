@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="../../Plugin.props" />
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="Community.PowerToys.Run.Plugin.PoetSearch.UnitTests" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\data\poems.json.gz">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>poems.json.gz</Link>
+    </None>
+  </ItemGroup>
+
+</Project>
